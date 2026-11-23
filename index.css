@@ -102,9 +102,9 @@ ul li a:hover {
   background-color: #111111;
 }
 
-div.Bild {
+@media (max-width 768px)
+{
   max-width: 100%;
-  height: auto;
 }
 
 
