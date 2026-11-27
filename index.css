@@ -1,8 +1,8 @@
 
 header {
   background-color: #1e2e96;
-  padding: 10vh;
-  text-align: auto;
+  padding: 1px;
+  text-align: center;
 
 }
 
@@ -42,7 +42,7 @@ div.gallery-item:hover {
 }
 
 div.gallery-item img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
   float: left;
 }
