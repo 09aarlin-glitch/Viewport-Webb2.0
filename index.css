@@ -1,7 +1,7 @@
 
 header {
   background-color: #1e2e96;
-  padding: 10px;
+  padding: 100%;
   text-align: center;
    
 }
@@ -24,7 +24,7 @@ h1 {
 
 p {
   font-family: verdana;
-  font-size: 22px;
+  font-size: 20%;
   
 }
 
@@ -33,7 +33,7 @@ p {
 div.gallery-item {
   margin: 5px;
   border: 1px solid #ccc;
-  width: 130px;
+  width: 40%;
   float: left;
   
 }
