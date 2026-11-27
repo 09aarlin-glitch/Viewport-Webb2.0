@@ -106,7 +106,7 @@ img {
   height: auto;
 }
 
-@media (max-width: 764px) {
+@media (max-width: 1024px) {
   img {
     max-width: 100%;
 	height: auto;
